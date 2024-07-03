@@ -1,0 +1,1 @@
+Objective: Create a users table in a MySQL database with a specific structure and implement an API in a Ruby on Rails application, hosted on EC2, to filter users based on campaign names present in their campaigns_list.
